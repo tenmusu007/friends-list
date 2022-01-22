@@ -1,0 +1,22 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans&family=Playfair+Display&display=swap');
+
+.header{
+    font-family: 'Playfair Display', serif;
+    background-color: white;
+}
+.header-box{
+    display: flex;
+    justify-content:space-between;
+}
+.header-name{
+    color: #000;
+    font-size: 48px;
+}
+.menu-btn{
+    content: url('https://api.iconify.design/ant-design/menu-outlined.svg?color=%23ccc&height=45');
+}
+.setting{
+    content: url('https://api.iconify.design/ant-design/setting-twotone.svg?color=%23ccc&height=45');
+}
